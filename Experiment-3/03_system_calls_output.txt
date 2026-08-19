@@ -1,0 +1,9 @@
+CHILD PROCESS
+Child PID : 1235
+Parent PID : 1234
+
+PARENT PROCESS
+Parent PID : 1234
+Parent's Parent PID : 1000
+File Opened Successfully
+File Closed Successfully
