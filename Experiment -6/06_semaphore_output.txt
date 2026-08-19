@@ -1,0 +1,4 @@
+Child Process Entering Critical Section
+Child Process Leaving Critical Section
+Parent Process Entering Critical Section
+Parent Process Leaving Critical Section
