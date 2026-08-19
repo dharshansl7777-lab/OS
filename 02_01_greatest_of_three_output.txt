@@ -1,3 +1,0 @@
-ENTER THREE NUMBERS
-10 25 15
-25 is greater
