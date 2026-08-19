@@ -1,0 +1,3 @@
+FIFO Page Faults = 10
+LRU Page Faults = 9
+Optimal Page Faults = 7
