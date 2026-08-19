@@ -1,0 +1,4 @@
+Page Number : 2
+Offset : 50
+Frame Number : 3
+Physical Address : 290
