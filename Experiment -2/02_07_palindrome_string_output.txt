@@ -1,0 +1,3 @@
+ENTER THE STRING TO CHECK PALINDROME
+madam
+madam is a palindrome

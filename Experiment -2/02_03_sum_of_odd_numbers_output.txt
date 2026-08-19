@@ -1,0 +1,3 @@
+ENTER THE RANGE:
+10
+SUM = 25
